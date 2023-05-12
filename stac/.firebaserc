@@ -1,1 +1,7 @@
-{}
+{
+  "projects": {
+    "stacjust": "stac-just01"
+  },
+  "targets": {},
+  "etags": {}
+}
