@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555501224513",
+    "firebase_url": "https://stac-just01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stac-just01",
+    "storage_bucket": "stac-just01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555501224513:android:eb7b850d0fe1710db3fcc0",
+        "android_client_info": {
+          "package_name": "com.example.stac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555501224513-2m1gqg40dkissccv6ntson1notncj2qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCXzVuRUG2ap99RN49haxAbZv-tfy34A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555501224513-2m1gqg40dkissccv6ntson1notncj2qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555501224513-p3lefcebav92pa7m9qnmigd9q6kelagu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stac.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
