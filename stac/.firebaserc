@@ -1,5 +1,7 @@
 {
-  "projects": {},
+  "projects": {
+    "default": "stac-just01"
+  },
   "targets": {},
   "etags": {}
 }
